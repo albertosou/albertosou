@@ -1,14 +1,13 @@
 ## Alberto Souza 👋
 
-Profissional com cerca de 20 anos de experiência no desenvolvimento de software, atuando como Arquiteto de Software, Techlead e Desenvolvedor Sênior. Especializado na stack .NET, com amplo conhecimento em diversas outras tecnologias e linguagens, como Java, Visual Basic, TypeScript, PHP, entre outras.
+Profissional com cerca de 20 anos de experiência no desenvolvimento de software, atuando como Arquiteto de Software, Techlead e Desenvolvedor Sênior.
 
-Ja atuei em projetos para clientes renomados, como Unibanco, Itaú-Unibanco, Rede, Granito Pagamentos, Julius Baer, Sanofi, entre outros, desempenhando um papel fundamental na arquitetura, liderança técnica e desenvolvimento de soluções robustas e escaláveis.
 
 [![albertosou's GitHub stats](https://github-readme-stats.vercel.app/api?username=albertosou&show_icons=true&theme=tokyonight)](https://github.com/albertosou/github-readme-stats)
 
 # 🚀 Expertise
 
-//TODO: My Expertise
+Ja atuei em projetos para clientes renomados, como Unibanco, Itaú-Unibanco, Rede, Granito Pagamentos, Julius Baer, Sanofi, entre outros, desempenhando um papel fundamental na arquitetura, liderança técnica e desenvolvimento de soluções robustas e escaláveis. Especializado na stack .NET, com amplo conhecimento em diversas outras tecnologias e linguagens, como Java, Visual Basic, TypeScript, PHP, dentre outras.
 
 # 💻 Tech Stack
 
